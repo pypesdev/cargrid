@@ -8,7 +8,12 @@ Local-first analytics CLI and Next.js dashboard over public automobile transacti
 pnpm install && pnpm db:migrate && pnpm ingest:seed && pnpm dev
 ```
 
-App runs on `http://localhost:3000`.
+App runs on `http://localhost:3000`. The four dashboard pages:
+
+- `/` — overview (world choropleth of US imports, top corridors, stat tiles).
+- `/flows` — bilateral flow explorer (filters sync to URL for shareable links).
+- `/calculator` — vehicle import cost calculator (cheapest route + duty breakdown).
+- `/routes` — batch route optimizer (CSV/paste up to 100 vehicles, consolidation lanes, CSV export).
 
 ## Requirements
 
