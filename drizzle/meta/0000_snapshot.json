@@ -1,0 +1,666 @@
+{
+  "version": "6",
+  "dialect": "sqlite",
+  "id": "1405aa9c-166b-4b70-8205-31f4dfe84145",
+  "prevId": "00000000-0000-0000-0000-000000000000",
+  "tables": {
+    "comparables": {
+      "name": "comparables",
+      "columns": {
+        "id": {
+          "name": "id",
+          "type": "integer",
+          "primaryKey": true,
+          "notNull": true,
+          "autoincrement": true
+        },
+        "vin_or_listing_id": {
+          "name": "vin_or_listing_id",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "source": {
+          "name": "source",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "sold_price_usd": {
+          "name": "sold_price_usd",
+          "type": "real",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "sold_date": {
+          "name": "sold_date",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "vehicle_id": {
+          "name": "vehicle_id",
+          "type": "integer",
+          "primaryKey": false,
+          "notNull": false,
+          "autoincrement": false
+        },
+        "url": {
+          "name": "url",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "raw_json": {
+          "name": "raw_json",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        }
+      },
+      "indexes": {
+        "comparables_unique": {
+          "name": "comparables_unique",
+          "columns": [
+            "source",
+            "vin_or_listing_id"
+          ],
+          "isUnique": true
+        },
+        "comparables_vehicle_idx": {
+          "name": "comparables_vehicle_idx",
+          "columns": [
+            "vehicle_id"
+          ],
+          "isUnique": false
+        },
+        "comparables_sold_date_idx": {
+          "name": "comparables_sold_date_idx",
+          "columns": [
+            "sold_date"
+          ],
+          "isUnique": false
+        }
+      },
+      "foreignKeys": {
+        "comparables_source_sources_source_key_fk": {
+          "name": "comparables_source_sources_source_key_fk",
+          "tableFrom": "comparables",
+          "tableTo": "sources",
+          "columnsFrom": [
+            "source"
+          ],
+          "columnsTo": [
+            "source_key"
+          ],
+          "onDelete": "no action",
+          "onUpdate": "no action"
+        },
+        "comparables_vehicle_id_vehicles_id_fk": {
+          "name": "comparables_vehicle_id_vehicles_id_fk",
+          "tableFrom": "comparables",
+          "tableTo": "vehicles",
+          "columnsFrom": [
+            "vehicle_id"
+          ],
+          "columnsTo": [
+            "id"
+          ],
+          "onDelete": "no action",
+          "onUpdate": "no action"
+        }
+      },
+      "compositePrimaryKeys": {},
+      "uniqueConstraints": {},
+      "checkConstraints": {}
+    },
+    "ingestion_runs": {
+      "name": "ingestion_runs",
+      "columns": {
+        "id": {
+          "name": "id",
+          "type": "integer",
+          "primaryKey": true,
+          "notNull": true,
+          "autoincrement": true
+        },
+        "source_key": {
+          "name": "source_key",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "started_at": {
+          "name": "started_at",
+          "type": "integer",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "finished_at": {
+          "name": "finished_at",
+          "type": "integer",
+          "primaryKey": false,
+          "notNull": false,
+          "autoincrement": false
+        },
+        "status": {
+          "name": "status",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "row_count": {
+          "name": "row_count",
+          "type": "integer",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false,
+          "default": 0
+        },
+        "error_message": {
+          "name": "error_message",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": false,
+          "autoincrement": false
+        },
+        "fixture_used": {
+          "name": "fixture_used",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": false,
+          "autoincrement": false
+        }
+      },
+      "indexes": {
+        "ingestion_runs_source_idx": {
+          "name": "ingestion_runs_source_idx",
+          "columns": [
+            "source_key",
+            "started_at"
+          ],
+          "isUnique": false
+        }
+      },
+      "foreignKeys": {
+        "ingestion_runs_source_key_sources_source_key_fk": {
+          "name": "ingestion_runs_source_key_sources_source_key_fk",
+          "tableFrom": "ingestion_runs",
+          "tableTo": "sources",
+          "columnsFrom": [
+            "source_key"
+          ],
+          "columnsTo": [
+            "source_key"
+          ],
+          "onDelete": "no action",
+          "onUpdate": "no action"
+        }
+      },
+      "compositePrimaryKeys": {},
+      "uniqueConstraints": {},
+      "checkConstraints": {}
+    },
+    "shipping_rates": {
+      "name": "shipping_rates",
+      "columns": {
+        "id": {
+          "name": "id",
+          "type": "integer",
+          "primaryKey": true,
+          "notNull": true,
+          "autoincrement": true
+        },
+        "origin_port": {
+          "name": "origin_port",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "destination_port": {
+          "name": "destination_port",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "mode": {
+          "name": "mode",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "rate_usd": {
+          "name": "rate_usd",
+          "type": "real",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "currency": {
+          "name": "currency",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "rate_date": {
+          "name": "rate_date",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "source": {
+          "name": "source",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        }
+      },
+      "indexes": {
+        "shipping_rates_lane_idx": {
+          "name": "shipping_rates_lane_idx",
+          "columns": [
+            "origin_port",
+            "destination_port",
+            "rate_date"
+          ],
+          "isUnique": false
+        },
+        "shipping_rates_unique": {
+          "name": "shipping_rates_unique",
+          "columns": [
+            "source",
+            "origin_port",
+            "destination_port",
+            "mode",
+            "rate_date"
+          ],
+          "isUnique": true
+        }
+      },
+      "foreignKeys": {
+        "shipping_rates_source_sources_source_key_fk": {
+          "name": "shipping_rates_source_sources_source_key_fk",
+          "tableFrom": "shipping_rates",
+          "tableTo": "sources",
+          "columnsFrom": [
+            "source"
+          ],
+          "columnsTo": [
+            "source_key"
+          ],
+          "onDelete": "no action",
+          "onUpdate": "no action"
+        }
+      },
+      "compositePrimaryKeys": {},
+      "uniqueConstraints": {},
+      "checkConstraints": {}
+    },
+    "sources": {
+      "name": "sources",
+      "columns": {
+        "source_key": {
+          "name": "source_key",
+          "type": "text",
+          "primaryKey": true,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "display_name": {
+          "name": "display_name",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "base_url": {
+          "name": "base_url",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "rate_limit_per_sec": {
+          "name": "rate_limit_per_sec",
+          "type": "real",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        }
+      },
+      "indexes": {},
+      "foreignKeys": {},
+      "compositePrimaryKeys": {},
+      "uniqueConstraints": {},
+      "checkConstraints": {}
+    },
+    "tariffs": {
+      "name": "tariffs",
+      "columns": {
+        "id": {
+          "name": "id",
+          "type": "integer",
+          "primaryKey": true,
+          "notNull": true,
+          "autoincrement": true
+        },
+        "destination_country": {
+          "name": "destination_country",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "hs_code": {
+          "name": "hs_code",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "ad_valorem_pct": {
+          "name": "ad_valorem_pct",
+          "type": "real",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "specific_usd": {
+          "name": "specific_usd",
+          "type": "real",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "trade_agreement": {
+          "name": "trade_agreement",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "effective_from": {
+          "name": "effective_from",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "effective_to": {
+          "name": "effective_to",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": false,
+          "autoincrement": false
+        },
+        "source": {
+          "name": "source",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        }
+      },
+      "indexes": {
+        "tariffs_lookup_idx": {
+          "name": "tariffs_lookup_idx",
+          "columns": [
+            "destination_country",
+            "hs_code",
+            "effective_from"
+          ],
+          "isUnique": false
+        },
+        "tariffs_unique": {
+          "name": "tariffs_unique",
+          "columns": [
+            "source",
+            "destination_country",
+            "hs_code",
+            "trade_agreement",
+            "effective_from"
+          ],
+          "isUnique": true
+        }
+      },
+      "foreignKeys": {
+        "tariffs_source_sources_source_key_fk": {
+          "name": "tariffs_source_sources_source_key_fk",
+          "tableFrom": "tariffs",
+          "tableTo": "sources",
+          "columnsFrom": [
+            "source"
+          ],
+          "columnsTo": [
+            "source_key"
+          ],
+          "onDelete": "no action",
+          "onUpdate": "no action"
+        }
+      },
+      "compositePrimaryKeys": {},
+      "uniqueConstraints": {},
+      "checkConstraints": {}
+    },
+    "trade_flows": {
+      "name": "trade_flows",
+      "columns": {
+        "id": {
+          "name": "id",
+          "type": "integer",
+          "primaryKey": true,
+          "notNull": true,
+          "autoincrement": true
+        },
+        "reporter": {
+          "name": "reporter",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "partner": {
+          "name": "partner",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "hs_code": {
+          "name": "hs_code",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "year": {
+          "name": "year",
+          "type": "integer",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "month": {
+          "name": "month",
+          "type": "integer",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "value_usd": {
+          "name": "value_usd",
+          "type": "real",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "quantity": {
+          "name": "quantity",
+          "type": "real",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "flow_direction": {
+          "name": "flow_direction",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "source": {
+          "name": "source",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        }
+      },
+      "indexes": {
+        "trade_flows_lookup_idx": {
+          "name": "trade_flows_lookup_idx",
+          "columns": [
+            "reporter",
+            "partner",
+            "year",
+            "month",
+            "hs_code"
+          ],
+          "isUnique": false
+        },
+        "trade_flows_unique": {
+          "name": "trade_flows_unique",
+          "columns": [
+            "source",
+            "reporter",
+            "partner",
+            "hs_code",
+            "year",
+            "month",
+            "flow_direction"
+          ],
+          "isUnique": true
+        }
+      },
+      "foreignKeys": {
+        "trade_flows_source_sources_source_key_fk": {
+          "name": "trade_flows_source_sources_source_key_fk",
+          "tableFrom": "trade_flows",
+          "tableTo": "sources",
+          "columnsFrom": [
+            "source"
+          ],
+          "columnsTo": [
+            "source_key"
+          ],
+          "onDelete": "no action",
+          "onUpdate": "no action"
+        }
+      },
+      "compositePrimaryKeys": {},
+      "uniqueConstraints": {},
+      "checkConstraints": {}
+    },
+    "vehicles": {
+      "name": "vehicles",
+      "columns": {
+        "id": {
+          "name": "id",
+          "type": "integer",
+          "primaryKey": true,
+          "notNull": true,
+          "autoincrement": true
+        },
+        "make": {
+          "name": "make",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "model": {
+          "name": "model",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "year": {
+          "name": "year",
+          "type": "integer",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "body_class": {
+          "name": "body_class",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "fuel_type": {
+          "name": "fuel_type",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "hs_code": {
+          "name": "hs_code",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        }
+      },
+      "indexes": {
+        "vehicles_make_model_year_idx": {
+          "name": "vehicles_make_model_year_idx",
+          "columns": [
+            "make",
+            "model",
+            "year"
+          ],
+          "isUnique": false
+        },
+        "vehicles_hs_code_idx": {
+          "name": "vehicles_hs_code_idx",
+          "columns": [
+            "hs_code"
+          ],
+          "isUnique": false
+        }
+      },
+      "foreignKeys": {},
+      "compositePrimaryKeys": {},
+      "uniqueConstraints": {},
+      "checkConstraints": {}
+    }
+  },
+  "views": {},
+  "enums": {},
+  "_meta": {
+    "schemas": {},
+    "tables": {},
+    "columns": {}
+  },
+  "internal": {
+    "indexes": {}
+  }
+}
