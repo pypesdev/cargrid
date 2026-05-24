@@ -1,0 +1,19 @@
+DROP INDEX IF EXISTS `vehicles_hs_code_idx`;--> statement-breakpoint
+DROP INDEX IF EXISTS `vehicles_make_model_year_idx`;--> statement-breakpoint
+DROP INDEX IF EXISTS `trade_flows_unique`;--> statement-breakpoint
+DROP INDEX IF EXISTS `trade_flows_lookup_idx`;--> statement-breakpoint
+DROP INDEX IF EXISTS `tariffs_unique`;--> statement-breakpoint
+DROP INDEX IF EXISTS `tariffs_lookup_idx`;--> statement-breakpoint
+DROP INDEX IF EXISTS `shipping_rates_unique`;--> statement-breakpoint
+DROP INDEX IF EXISTS `shipping_rates_lane_idx`;--> statement-breakpoint
+DROP INDEX IF EXISTS `ingestion_runs_source_idx`;--> statement-breakpoint
+DROP INDEX IF EXISTS `comparables_sold_date_idx`;--> statement-breakpoint
+DROP INDEX IF EXISTS `comparables_vehicle_idx`;--> statement-breakpoint
+DROP INDEX IF EXISTS `comparables_unique`;--> statement-breakpoint
+DROP TABLE IF EXISTS `ingestion_runs`;--> statement-breakpoint
+DROP TABLE IF EXISTS `comparables`;--> statement-breakpoint
+DROP TABLE IF EXISTS `tariffs`;--> statement-breakpoint
+DROP TABLE IF EXISTS `shipping_rates`;--> statement-breakpoint
+DROP TABLE IF EXISTS `trade_flows`;--> statement-breakpoint
+DROP TABLE IF EXISTS `vehicles`;--> statement-breakpoint
+DROP TABLE IF EXISTS `sources`;
