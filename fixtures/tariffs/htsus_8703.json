@@ -1,0 +1,346 @@
+{
+  "rows": [
+    {
+      "destination_country": "US",
+      "hs_code": "8703",
+      "ad_valorem_pct": 2.5,
+      "specific_usd": 0,
+      "trade_agreement": "none",
+      "effective_from": "2024-01-01",
+      "effective_to": null
+    },
+    {
+      "destination_country": "US",
+      "hs_code": "8703",
+      "ad_valorem_pct": 0,
+      "specific_usd": 0,
+      "trade_agreement": "USMCA",
+      "effective_from": "2020-07-01",
+      "effective_to": null
+    },
+    {
+      "destination_country": "US",
+      "hs_code": "8703",
+      "ad_valorem_pct": 0,
+      "specific_usd": 0,
+      "trade_agreement": "GSP",
+      "effective_from": "2024-01-01",
+      "effective_to": null
+    },
+    {
+      "destination_country": "US",
+      "hs_code": "8704",
+      "ad_valorem_pct": 25,
+      "specific_usd": 0,
+      "trade_agreement": "none",
+      "effective_from": "2024-01-01",
+      "effective_to": null
+    },
+    {
+      "destination_country": "US",
+      "hs_code": "8704",
+      "ad_valorem_pct": 0,
+      "specific_usd": 0,
+      "trade_agreement": "USMCA",
+      "effective_from": "2020-07-01",
+      "effective_to": null
+    },
+    {
+      "destination_country": "US",
+      "hs_code": "8711",
+      "ad_valorem_pct": 2.4,
+      "specific_usd": 0,
+      "trade_agreement": "none",
+      "effective_from": "2024-01-01",
+      "effective_to": null
+    },
+    {
+      "destination_country": "US",
+      "hs_code": "8711",
+      "ad_valorem_pct": 0,
+      "specific_usd": 0,
+      "trade_agreement": "USMCA",
+      "effective_from": "2020-07-01",
+      "effective_to": null
+    },
+    {
+      "destination_country": "US",
+      "hs_code": "8711",
+      "ad_valorem_pct": 0,
+      "specific_usd": 0,
+      "trade_agreement": "GSP",
+      "effective_from": "2024-01-01",
+      "effective_to": null
+    },
+    {
+      "destination_country": "CA",
+      "hs_code": "8703",
+      "ad_valorem_pct": 6.1,
+      "specific_usd": 0,
+      "trade_agreement": "none",
+      "effective_from": "2024-01-01",
+      "effective_to": null
+    },
+    {
+      "destination_country": "CA",
+      "hs_code": "8703",
+      "ad_valorem_pct": 0,
+      "specific_usd": 0,
+      "trade_agreement": "USMCA",
+      "effective_from": "2020-07-01",
+      "effective_to": null
+    },
+    {
+      "destination_country": "CA",
+      "hs_code": "8704",
+      "ad_valorem_pct": 6.1,
+      "specific_usd": 0,
+      "trade_agreement": "none",
+      "effective_from": "2024-01-01",
+      "effective_to": null
+    },
+    {
+      "destination_country": "CA",
+      "hs_code": "8704",
+      "ad_valorem_pct": 0,
+      "specific_usd": 0,
+      "trade_agreement": "USMCA",
+      "effective_from": "2020-07-01",
+      "effective_to": null
+    },
+    {
+      "destination_country": "CA",
+      "hs_code": "8711",
+      "ad_valorem_pct": 6,
+      "specific_usd": 0,
+      "trade_agreement": "none",
+      "effective_from": "2024-01-01",
+      "effective_to": null
+    },
+    {
+      "destination_country": "CA",
+      "hs_code": "8711",
+      "ad_valorem_pct": 0,
+      "specific_usd": 0,
+      "trade_agreement": "USMCA",
+      "effective_from": "2020-07-01",
+      "effective_to": null
+    },
+    {
+      "destination_country": "MX",
+      "hs_code": "8703",
+      "ad_valorem_pct": 20,
+      "specific_usd": 0,
+      "trade_agreement": "none",
+      "effective_from": "2024-01-01",
+      "effective_to": null
+    },
+    {
+      "destination_country": "MX",
+      "hs_code": "8703",
+      "ad_valorem_pct": 0,
+      "specific_usd": 0,
+      "trade_agreement": "USMCA",
+      "effective_from": "2020-07-01",
+      "effective_to": null
+    },
+    {
+      "destination_country": "MX",
+      "hs_code": "8704",
+      "ad_valorem_pct": 15,
+      "specific_usd": 0,
+      "trade_agreement": "none",
+      "effective_from": "2024-01-01",
+      "effective_to": null
+    },
+    {
+      "destination_country": "MX",
+      "hs_code": "8704",
+      "ad_valorem_pct": 0,
+      "specific_usd": 0,
+      "trade_agreement": "USMCA",
+      "effective_from": "2020-07-01",
+      "effective_to": null
+    },
+    {
+      "destination_country": "MX",
+      "hs_code": "8711",
+      "ad_valorem_pct": 15,
+      "specific_usd": 0,
+      "trade_agreement": "none",
+      "effective_from": "2024-01-01",
+      "effective_to": null
+    },
+    {
+      "destination_country": "MX",
+      "hs_code": "8711",
+      "ad_valorem_pct": 0,
+      "specific_usd": 0,
+      "trade_agreement": "USMCA",
+      "effective_from": "2020-07-01",
+      "effective_to": null
+    },
+    {
+      "destination_country": "EU",
+      "hs_code": "8703",
+      "ad_valorem_pct": 10,
+      "specific_usd": 0,
+      "trade_agreement": "none",
+      "effective_from": "2024-01-01",
+      "effective_to": null
+    },
+    {
+      "destination_country": "EU",
+      "hs_code": "8703",
+      "ad_valorem_pct": 0,
+      "specific_usd": 0,
+      "trade_agreement": "GSP",
+      "effective_from": "2024-01-01",
+      "effective_to": null
+    },
+    {
+      "destination_country": "EU",
+      "hs_code": "8704",
+      "ad_valorem_pct": 22,
+      "specific_usd": 0,
+      "trade_agreement": "none",
+      "effective_from": "2024-01-01",
+      "effective_to": null
+    },
+    {
+      "destination_country": "EU",
+      "hs_code": "8711",
+      "ad_valorem_pct": 6,
+      "specific_usd": 0,
+      "trade_agreement": "none",
+      "effective_from": "2024-01-01",
+      "effective_to": null
+    },
+    {
+      "destination_country": "EU",
+      "hs_code": "8711",
+      "ad_valorem_pct": 0,
+      "specific_usd": 0,
+      "trade_agreement": "GSP",
+      "effective_from": "2024-01-01",
+      "effective_to": null
+    },
+    {
+      "destination_country": "GB",
+      "hs_code": "8703",
+      "ad_valorem_pct": 10,
+      "specific_usd": 0,
+      "trade_agreement": "none",
+      "effective_from": "2024-01-01",
+      "effective_to": null
+    },
+    {
+      "destination_country": "GB",
+      "hs_code": "8703",
+      "ad_valorem_pct": 0,
+      "specific_usd": 0,
+      "trade_agreement": "GSP",
+      "effective_from": "2024-01-01",
+      "effective_to": null
+    },
+    {
+      "destination_country": "GB",
+      "hs_code": "8704",
+      "ad_valorem_pct": 22,
+      "specific_usd": 0,
+      "trade_agreement": "none",
+      "effective_from": "2024-01-01",
+      "effective_to": null
+    },
+    {
+      "destination_country": "GB",
+      "hs_code": "8711",
+      "ad_valorem_pct": 6,
+      "specific_usd": 0,
+      "trade_agreement": "none",
+      "effective_from": "2024-01-01",
+      "effective_to": null
+    },
+    {
+      "destination_country": "GB",
+      "hs_code": "8711",
+      "ad_valorem_pct": 0,
+      "specific_usd": 0,
+      "trade_agreement": "GSP",
+      "effective_from": "2024-01-01",
+      "effective_to": null
+    },
+    {
+      "destination_country": "JP",
+      "hs_code": "8703",
+      "ad_valorem_pct": 0,
+      "specific_usd": 0,
+      "trade_agreement": "none",
+      "effective_from": "2024-01-01",
+      "effective_to": null
+    },
+    {
+      "destination_country": "JP",
+      "hs_code": "8704",
+      "ad_valorem_pct": 0,
+      "specific_usd": 0,
+      "trade_agreement": "none",
+      "effective_from": "2024-01-01",
+      "effective_to": null
+    },
+    {
+      "destination_country": "JP",
+      "hs_code": "8711",
+      "ad_valorem_pct": 0,
+      "specific_usd": 0,
+      "trade_agreement": "none",
+      "effective_from": "2024-01-01",
+      "effective_to": null
+    },
+    {
+      "destination_country": "AU",
+      "hs_code": "8703",
+      "ad_valorem_pct": 5,
+      "specific_usd": 0,
+      "trade_agreement": "none",
+      "effective_from": "2024-01-01",
+      "effective_to": null
+    },
+    {
+      "destination_country": "AU",
+      "hs_code": "8703",
+      "ad_valorem_pct": 0,
+      "specific_usd": 0,
+      "trade_agreement": "GSP",
+      "effective_from": "2024-01-01",
+      "effective_to": null
+    },
+    {
+      "destination_country": "AU",
+      "hs_code": "8704",
+      "ad_valorem_pct": 5,
+      "specific_usd": 0,
+      "trade_agreement": "none",
+      "effective_from": "2024-01-01",
+      "effective_to": null
+    },
+    {
+      "destination_country": "AU",
+      "hs_code": "8711",
+      "ad_valorem_pct": 5,
+      "specific_usd": 0,
+      "trade_agreement": "none",
+      "effective_from": "2024-01-01",
+      "effective_to": null
+    },
+    {
+      "destination_country": "AU",
+      "hs_code": "8711",
+      "ad_valorem_pct": 0,
+      "specific_usd": 0,
+      "trade_agreement": "GSP",
+      "effective_from": "2024-01-01",
+      "effective_to": null
+    }
+  ]
+}

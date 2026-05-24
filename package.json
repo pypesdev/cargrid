@@ -17,14 +17,22 @@
     "test:e2e": "playwright test",
     "db:migrate": "tsx scripts/migrate.ts",
     "db:studio": "drizzle-kit studio",
-    "ingest:seed": "tsx scripts/seed.ts"
+    "ingest:seed": "tsx scripts/seed.ts",
+    "ingest:un-comtrade": "tsx scripts/ingest-un-comtrade.ts",
+    "ingest:us-census": "tsx scripts/ingest-us-census.ts",
+    "ingest:freightos": "tsx scripts/ingest-freightos.ts",
+    "ingest:auctions": "tsx scripts/ingest-auctions.ts"
   },
   "dependencies": {
     "better-sqlite3": "^11.5.0",
+    "cheerio": "^1.0.0",
     "drizzle-orm": "^0.36.4",
     "next": "15.1.6",
+    "p-limit": "^6.2.0",
     "react": "19.0.0",
-    "react-dom": "19.0.0"
+    "react-dom": "19.0.0",
+    "robots-parser": "^3.0.1",
+    "zod": "^3.24.1"
   },
   "pnpm": {
     "onlyBuiltDependencies": [
