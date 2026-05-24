@@ -21,7 +21,9 @@
     "ingest:un-comtrade": "tsx scripts/ingest-un-comtrade.ts",
     "ingest:us-census": "tsx scripts/ingest-us-census.ts",
     "ingest:freightos": "tsx scripts/ingest-freightos.ts",
-    "ingest:auctions": "tsx scripts/ingest-auctions.ts"
+    "ingest:auctions": "tsx scripts/ingest-auctions.ts",
+    "analyze:cheapest": "tsx scripts/analyze-cheapest.ts",
+    "analyze:corridors": "tsx scripts/analyze-corridors.ts"
   },
   "dependencies": {
     "better-sqlite3": "^11.5.0",
@@ -53,6 +55,7 @@
     "drizzle-kit": "^0.30.1",
     "eslint": "^9.18.0",
     "eslint-config-next": "15.1.6",
+    "fast-check": "^4.8.0",
     "prettier": "^3.4.2",
     "tailwindcss": "^4.0.0",
     "tsx": "^4.19.2",

@@ -1,0 +1,122 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`analyze:cheapest CLI > emits JSON when --json is passed 1`] = `
+[
+  {
+    "brokerFeesUsd": 250,
+    "dutyUsd": 625,
+    "etaDays": 14,
+    "hops": [
+      {
+        "etaDays": 14,
+        "fromPort": "CNSHA",
+        "mode": "FCL",
+        "rateDate": "2026-05-20",
+        "rateUsd": 2503,
+        "source": "freightos",
+        "toPort": "USLAX",
+      },
+    ],
+    "shippingCostUsd": 2503,
+    "totalLandedCostUsd": 3378,
+  },
+]
+`;
+
+exports[`analyze:cheapest CLI > renders a deterministic table for SHA → LAX HS 8703 $25000 as-of 2026-05-20 1`] = `
+"rank path                            shipping    duty      broker    landed      eta
+--------------------------------------------------------------------------------------
+1   CNSHA → USLAX                   $2,503      $625      $250      $3,378      14d
+"
+`;
+
+exports[`analyze:corridors CLI > emits JSON when --json is passed 1`] = `
+[
+  {
+    "monthCount": 27,
+    "partner": "MX",
+    "reporter": "US",
+    "totalQuantity": 1690126,
+    "totalValueUsd": 38161111133,
+  },
+  {
+    "monthCount": 27,
+    "partner": "CA",
+    "reporter": "US",
+    "totalQuantity": 1449588,
+    "totalValueUsd": 32713610286,
+  },
+  {
+    "monthCount": 27,
+    "partner": "JP",
+    "reporter": "US",
+    "totalQuantity": 1097305,
+    "totalValueUsd": 24783224449,
+  },
+  {
+    "monthCount": 27,
+    "partner": "DE",
+    "reporter": "US",
+    "totalQuantity": 807671,
+    "totalValueUsd": 18248603111,
+  },
+  {
+    "monthCount": 27,
+    "partner": "KR",
+    "reporter": "US",
+    "totalQuantity": 620582,
+    "totalValueUsd": 14020462737,
+  },
+  {
+    "monthCount": 27,
+    "partner": "GB",
+    "reporter": "US",
+    "totalQuantity": 530629,
+    "totalValueUsd": 11982256949,
+  },
+  {
+    "monthCount": 27,
+    "partner": "IT",
+    "reporter": "US",
+    "totalQuantity": 405877,
+    "totalValueUsd": 9169904939,
+  },
+  {
+    "monthCount": 24,
+    "partner": "FR",
+    "reporter": "US",
+    "totalQuantity": 325984,
+    "totalValueUsd": 7334717878,
+  },
+  {
+    "monthCount": 24,
+    "partner": "CN",
+    "reporter": "US",
+    "totalQuantity": 278490,
+    "totalValueUsd": 6266040755,
+  },
+  {
+    "monthCount": 24,
+    "partner": "BE",
+    "reporter": "US",
+    "totalQuantity": 227321,
+    "totalValueUsd": 5114708488,
+  },
+]
+`;
+
+exports[`analyze:corridors CLI > renders a deterministic top-10 table for HS 8703 2022-2024 1`] = `
+"rank reporter  partner   value             qty           months
+----------------------------------------------------------------------
+1   US        MX        $38,161,111,133   1,690,126     27
+2   US        CA        $32,713,610,286   1,449,588     27
+3   US        JP        $24,783,224,449   1,097,305     27
+4   US        DE        $18,248,603,111   807,671       27
+5   US        KR        $14,020,462,737   620,582       27
+6   US        GB        $11,982,256,949   530,629       27
+7   US        IT        $9,169,904,939    405,877       27
+8   US        FR        $7,334,717,878    325,984       24
+9   US        CN        $6,266,040,755    278,490       24
+10  US        BE        $5,114,708,488    227,321       24
+"
+`;
