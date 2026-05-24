@@ -1,0 +1,4864 @@
+{
+  "rates": [
+    {
+      "index": "FBX01",
+      "date": "2026-05-20",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 2503,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-05-20",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 3581,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-05-20",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 3703,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-05-20",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2667,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-05-20",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 668,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-05-20",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 1007,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-05-19",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 3061,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-05-19",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 3539,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-05-19",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 3745,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-05-19",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2200,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-05-19",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 743,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-05-19",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 866,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-05-18",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 3197,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-05-18",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 3566,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-05-18",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 3479,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-05-18",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2087,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-05-18",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 665,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-05-18",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 856,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-05-17",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 3279,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-05-17",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 4338,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-05-17",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 3498,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-05-17",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2155,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-05-17",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 716,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-05-17",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 920,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-05-16",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 2687,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-05-16",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 3516,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-05-16",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 2851,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-05-16",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2737,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-05-16",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 791,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-05-16",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 1011,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-05-15",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 2927,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-05-15",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 3318,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-05-15",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 3150,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-05-15",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2130,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-05-15",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 703,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-05-15",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 891,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-05-14",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 3029,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-05-14",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 3922,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-05-14",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 2934,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-05-14",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2311,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-05-14",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 674,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-05-14",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 1042,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-05-13",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 3004,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-05-13",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 3250,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-05-13",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 3574,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-05-13",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2460,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-05-13",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 793,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-05-13",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 897,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-05-12",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 3248,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-05-12",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 3548,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-05-12",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 3641,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-05-12",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2238,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-05-12",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 631,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-05-12",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 928,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-05-11",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 3056,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-05-11",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 3732,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-05-11",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 2853,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-05-11",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2116,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-05-11",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 677,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-05-11",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 866,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-05-10",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 2555,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-05-10",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 4356,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-05-10",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 2982,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-05-10",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2073,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-05-10",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 814,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-05-10",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 902,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-05-09",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 2794,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-05-09",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 3598,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-05-09",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 3489,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-05-09",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2176,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-05-09",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 653,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-05-09",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 856,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-05-08",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 3060,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-05-08",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 3612,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-05-08",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 3451,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-05-08",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2243,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-05-08",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 627,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-05-08",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 863,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-05-07",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 2944,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-05-07",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 3318,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-05-07",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 3088,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-05-07",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2477,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-05-07",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 760,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-05-07",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 958,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-05-06",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 2586,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-05-06",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 3985,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-05-06",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 3345,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-05-06",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2117,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-05-06",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 785,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-05-06",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 1054,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-05-05",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 3028,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-05-05",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 3578,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-05-05",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 2907,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-05-05",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2623,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-05-05",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 651,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-05-05",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 929,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-05-04",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 3255,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-05-04",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 4370,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-05-04",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 3542,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-05-04",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2180,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-05-04",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 705,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-05-04",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 1073,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-05-03",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 2701,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-05-03",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 3388,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-05-03",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 3566,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-05-03",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2198,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-05-03",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 713,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-05-03",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 911,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-05-02",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 2550,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-05-02",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 3969,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-05-02",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 3144,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-05-02",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2678,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-05-02",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 650,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-05-02",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 851,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-05-01",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 3030,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-05-01",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 3597,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-05-01",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 2989,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-05-01",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2340,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-05-01",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 686,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-05-01",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 872,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-04-30",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 2509,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-04-30",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 3447,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-04-30",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 3130,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-04-30",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2117,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-04-30",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 772,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-04-30",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 1090,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-04-29",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 2607,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-04-29",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 3775,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-04-29",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 3014,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-04-29",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2440,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-04-29",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 706,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-04-29",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 878,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-04-28",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 3317,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-04-28",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 4348,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-04-28",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 3785,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-04-28",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2735,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-04-28",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 720,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-04-28",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 1054,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-04-27",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 2710,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-04-27",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 3475,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-04-27",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 3607,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-04-27",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2422,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-04-27",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 707,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-04-27",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 840,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-04-26",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 2619,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-04-26",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 3700,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-04-26",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 3673,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-04-26",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2218,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-04-26",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 749,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-04-26",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 1079,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-04-25",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 2926,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-04-25",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 4359,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-04-25",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 3472,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-04-25",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2540,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-04-25",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 620,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-04-25",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 1116,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-04-24",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 2902,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-04-24",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 3799,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-04-24",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 3252,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-04-24",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2182,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-04-24",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 744,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-04-24",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 1069,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-04-23",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 2741,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-04-23",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 4293,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-04-23",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 3343,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-04-23",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2180,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-04-23",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 647,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-04-23",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 1010,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-04-22",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 2603,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-04-22",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 3893,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-04-22",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 3561,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-04-22",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2238,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-04-22",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 771,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-04-22",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 1002,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-04-21",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 3137,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-04-21",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 3234,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-04-21",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 3513,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-04-21",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2175,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-04-21",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 712,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-04-21",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 1091,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-04-20",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 3314,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-04-20",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 3451,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-04-20",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 3577,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-04-20",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2615,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-04-20",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 800,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-04-20",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 1068,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-04-19",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 3263,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-04-19",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 3464,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-04-19",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 3263,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-04-19",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2413,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-04-19",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 629,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-04-19",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 928,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-04-18",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 3070,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-04-18",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 3685,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-04-18",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 3017,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-04-18",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2510,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-04-18",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 697,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-04-18",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 1122,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-04-17",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 3163,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-04-17",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 4073,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-04-17",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 3165,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-04-17",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2492,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-04-17",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 620,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-04-17",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 974,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-04-16",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 3321,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-04-16",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 3371,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-04-16",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 3767,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-04-16",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2392,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-04-16",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 623,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-04-16",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 1035,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-04-15",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 2864,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-04-15",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 3556,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-04-15",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 3569,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-04-15",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2593,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-04-15",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 820,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-04-15",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 925,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-04-14",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 2607,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-04-14",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 3576,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-04-14",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 3369,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-04-14",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2089,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-04-14",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 669,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-04-14",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 916,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-04-13",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 3142,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-04-13",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 4184,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-04-13",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 3689,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-04-13",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2602,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-04-13",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 807,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-04-13",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 1077,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-04-12",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 3239,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-04-12",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 4239,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-04-12",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 2941,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-04-12",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2545,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-04-12",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 624,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-04-12",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 855,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-04-11",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 3053,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-04-11",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 4084,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-04-11",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 3044,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-04-11",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2065,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-04-11",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 693,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-04-11",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 915,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-04-10",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 2698,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-04-10",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 4334,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-04-10",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 3660,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-04-10",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2706,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-04-10",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 756,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-04-10",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 1085,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-04-09",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 2597,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-04-09",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 4294,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-04-09",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 3216,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-04-09",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2238,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-04-09",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 622,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-04-09",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 1029,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-04-08",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 2584,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-04-08",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 3974,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-04-08",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 3783,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-04-08",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2657,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-04-08",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 710,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-04-08",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 874,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-04-07",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 2557,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-04-07",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 3643,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-04-07",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 3258,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-04-07",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2371,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-04-07",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 740,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-04-07",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 967,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-04-06",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 2905,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-04-06",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 3656,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-04-06",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 3509,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-04-06",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2687,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-04-06",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 779,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-04-06",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 1033,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-04-05",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 2481,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-04-05",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 3586,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-04-05",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 3085,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-04-05",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2662,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-04-05",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 748,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-04-05",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 1023,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-04-04",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 2796,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-04-04",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 4118,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-04-04",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 3422,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-04-04",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2541,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-04-04",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 786,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-04-04",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 847,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-04-03",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 3207,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-04-03",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 3242,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-04-03",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 3676,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-04-03",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2051,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-04-03",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 795,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-04-03",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 1023,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-04-02",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 2860,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-04-02",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 3731,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-04-02",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 3308,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-04-02",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2435,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-04-02",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 744,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-04-02",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 915,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-04-01",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 3156,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-04-01",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 3930,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-04-01",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 3113,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-04-01",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2210,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-04-01",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 747,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-04-01",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 1018,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-03-31",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 2828,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-03-31",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 4316,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-03-31",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 3444,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-03-31",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2525,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-03-31",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 793,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-03-31",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 1117,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-03-30",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 3050,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-03-30",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 4012,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-03-30",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 3512,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-03-30",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2660,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-03-30",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 797,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-03-30",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 915,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-03-29",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 3205,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-03-29",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 3475,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-03-29",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 3744,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-03-29",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2760,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-03-29",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 801,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-03-29",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 911,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-03-28",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 2636,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-03-28",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 3916,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-03-28",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 3599,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-03-28",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2332,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-03-28",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 773,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-03-28",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 854,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-03-27",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 3282,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-03-27",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 4290,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-03-27",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 3375,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-03-27",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2344,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-03-27",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 698,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-03-27",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 1023,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-03-26",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 2768,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-03-26",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 3847,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-03-26",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 3398,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-03-26",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2222,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-03-26",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 763,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-03-26",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 1004,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-03-25",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 2906,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-03-25",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 3956,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-03-25",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 3642,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-03-25",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2528,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-03-25",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 730,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-03-25",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 966,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-03-24",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 2933,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-03-24",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 3234,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-03-24",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 3188,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-03-24",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2504,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-03-24",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 773,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-03-24",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 957,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-03-23",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 2540,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-03-23",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 4157,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-03-23",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 3387,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-03-23",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2235,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-03-23",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 662,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-03-23",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 989,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-03-22",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 2815,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-03-22",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 3237,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-03-22",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 2910,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-03-22",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2052,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-03-22",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 822,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-03-22",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 1060,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-03-21",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 2483,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-03-21",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 4194,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-03-21",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 3077,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-03-21",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2124,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-03-21",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 680,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-03-21",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 980,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-03-20",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 2755,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-03-20",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 3686,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-03-20",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 3483,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-03-20",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2758,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-03-20",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 821,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-03-20",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 1021,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-03-19",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 3185,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-03-19",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 4266,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-03-19",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 3351,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-03-19",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2636,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-03-19",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 739,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-03-19",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 969,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-03-18",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 2556,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-03-18",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 4327,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-03-18",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 2851,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-03-18",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2464,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-03-18",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 670,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-03-18",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 931,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-03-17",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 2733,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-03-17",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 3309,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-03-17",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 2826,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-03-17",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2629,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-03-17",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 797,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-03-17",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 880,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-03-16",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 2655,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-03-16",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 3448,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-03-16",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 3560,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-03-16",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2291,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-03-16",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 665,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-03-16",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 1048,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-03-15",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 2589,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-03-15",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 3383,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-03-15",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 3193,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-03-15",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2495,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-03-15",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 742,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-03-15",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 1110,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-03-14",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 3162,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-03-14",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 4355,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-03-14",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 3397,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-03-14",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2481,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-03-14",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 825,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-03-14",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 937,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-03-13",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 3285,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-03-13",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 3304,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-03-13",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 3151,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-03-13",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2175,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-03-13",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 801,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-03-13",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 843,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-03-12",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 2630,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-03-12",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 3930,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-03-12",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 3223,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-03-12",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2076,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-03-12",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 633,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-03-12",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 941,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-03-11",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 2480,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-03-11",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 4361,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-03-11",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 3557,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-03-11",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2655,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-03-11",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 728,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-03-11",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 1108,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-03-10",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 2942,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-03-10",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 3974,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-03-10",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 3038,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-03-10",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2114,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-03-10",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 706,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-03-10",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 1104,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-03-09",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 2734,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-03-09",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 3372,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-03-09",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 2875,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-03-09",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2412,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-03-09",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 821,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-03-09",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 1114,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-03-08",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 2585,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-03-08",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 4171,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-03-08",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 3085,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-03-08",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2120,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-03-08",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 665,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-03-08",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 999,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-03-07",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 2692,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-03-07",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 3357,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-03-07",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 2813,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-03-07",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2095,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-03-07",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 783,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-03-07",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 909,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-03-06",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 2528,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-03-06",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 4251,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-03-06",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 3286,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-03-06",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2159,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-03-06",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 663,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-03-06",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 1001,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-03-05",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 2965,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-03-05",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 3963,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-03-05",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 3735,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-03-05",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2068,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-03-05",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 683,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-03-05",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 1090,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-03-04",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 3087,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-03-04",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 3288,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-03-04",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 3493,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-03-04",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2737,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-03-04",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 709,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-03-04",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 958,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-03-03",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 2572,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-03-03",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 3623,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-03-03",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 3298,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-03-03",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2127,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-03-03",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 776,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-03-03",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 989,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-03-02",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 2486,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-03-02",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 3732,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-03-02",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 3281,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-03-02",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2250,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-03-02",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 630,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-03-02",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 1075,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-03-01",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 2869,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-03-01",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 3517,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-03-01",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 3153,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-03-01",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2072,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-03-01",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 664,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-03-01",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 934,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-02-28",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 2899,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-02-28",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 4134,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-02-28",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 3252,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-02-28",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2605,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-02-28",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 745,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-02-28",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 1108,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-02-27",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 3102,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-02-27",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 3719,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-02-27",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 2998,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-02-27",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2722,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-02-27",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 713,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-02-27",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 1027,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-02-26",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 2952,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-02-26",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 3561,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-02-26",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 3138,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-02-26",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2187,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-02-26",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 778,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-02-26",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 1057,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-02-25",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 3206,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-02-25",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 3809,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-02-25",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 3158,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-02-25",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2085,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-02-25",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 695,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-02-25",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 1000,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-02-24",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 2882,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-02-24",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 3349,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-02-24",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 3119,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-02-24",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2292,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-02-24",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 674,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-02-24",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 1081,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-02-23",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 2763,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-02-23",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 3473,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-02-23",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 3395,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-02-23",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2483,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-02-23",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 625,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-02-23",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 1108,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-02-22",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 2666,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-02-22",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 3554,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-02-22",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 3137,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-02-22",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2233,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-02-22",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 729,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-02-22",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 1032,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-02-21",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 2613,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-02-21",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 3405,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-02-21",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 3781,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-02-21",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2106,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-02-21",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 818,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-02-21",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 1119,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX01",
+      "date": "2026-02-20",
+      "origin_port": "CNSHA",
+      "destination_port": "USLAX",
+      "rate_usd": 3204,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX02",
+      "date": "2026-02-20",
+      "origin_port": "CNSHA",
+      "destination_port": "USNYC",
+      "rate_usd": 4274,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX03",
+      "date": "2026-02-20",
+      "origin_port": "CNSHA",
+      "destination_port": "NLRTM",
+      "rate_usd": 3173,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX04",
+      "date": "2026-02-20",
+      "origin_port": "NLRTM",
+      "destination_port": "USNYC",
+      "rate_usd": 2405,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX05",
+      "date": "2026-02-20",
+      "origin_port": "USLAX",
+      "destination_port": "CNSHA",
+      "rate_usd": 693,
+      "currency": "USD",
+      "equipment": "FEU"
+    },
+    {
+      "index": "FBX06",
+      "date": "2026-02-20",
+      "origin_port": "USNYC",
+      "destination_port": "NLRTM",
+      "rate_usd": 998,
+      "currency": "USD",
+      "equipment": "FEU"
+    }
+  ]
+}
