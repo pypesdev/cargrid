@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import "./globals.css";
+import { Nav } from "./_components/Nav";
 
 export const metadata: Metadata = {
   title: "cargrid",
@@ -13,7 +14,10 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body>{children}</body>
+      <body className="min-h-screen bg-gray-50 text-gray-900 antialiased">
+        <Nav />
+        {children}
+      </body>
     </html>
   );
 }
